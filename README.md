@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Dipesh Singh Raghav</h1>
 <h3 align="center">I'm a first year CSE student aspiring to be a Software and Web Developer.</h3>
 
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/laptop-gif-26065234">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshraghav&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshraghav" /> </p>
 
 - 🔭 I’m currently working on **Fake News Detection website**
