@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Web Development, Game Development and working with AI and ML**
 
-- 📫 How to reach me **dipeshraghav69@gmail.com**
+- 📫 You can reach me at **dipeshraghav69@gmail.com**
 
 - ⚡ Fun fact **I love cats more than myself**
 
