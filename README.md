@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Dipesh Singh Raghav</h1>
 <h3 align="center">I'm a first year CSE student aspiring to be a Software and Web Developer.</h3>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/view/laptop-gif-26065234">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipeshraghav&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshraghav" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **developing new and interesting projects**
 
-- 🤝 I’m looking for help with **Web Development, Game Development and working with AI and ML**
+- 🤝 I’m looking for help with **Web Development and working with AI and ML**
 
 - 📫 You can reach me at **dipeshraghav69@gmail.com**
 
