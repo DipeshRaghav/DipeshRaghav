@@ -1,5 +1,3 @@
-![logo](https://github.com/DipeshRaghav/DipeshRaghav/blob/main/DALL%C2%B7E%202025-03-27%2011.16.22%20-%20A%20futuristic%20banner%20with%20a%20dark%20background%20and%20neon%20purple%20accents%2C%20featuring%20the%20name%20'Dipesh'%20in%20a%20sleek%2C%20futuristic%20font.%20The%20design%20includes%20high-.jpg)
-
 <h1 align="center">Hi 👋, I'm Dipesh Singh Raghav</h1>
 <h3 align="center">I'm a first year CSE student aspiring to be a Software and Web Developer.</h3>
 
